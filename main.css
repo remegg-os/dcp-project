@@ -272,4 +272,12 @@ body {
     .contact-form {
         width: 90%;
     }
+
+    .social-links a {
+    transition: color 0.3s;
+    }
+
+    .social-links a:hover {
+        color: var(--primary);
+    }
 }
