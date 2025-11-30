@@ -277,4 +277,8 @@ body {
     .contact-form {
         width: 90%;
     }
+    
+    .social-links {
+        margin: 1rem 1.7rem;
+    }
 }
