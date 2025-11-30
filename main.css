@@ -220,6 +220,14 @@ body {
     background-color: #fff;
 }
 
+.social-links a {
+    transition: color 0.3s;
+}
+
+.social-links a:hover {
+    color: var(--primary);
+}
+
 /* --- Mobile --- */
 @media (max-width: 768px) {
     .navbar {
