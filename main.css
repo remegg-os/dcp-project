@@ -242,9 +242,14 @@ body {
         display: none;
         width: 100%;
         text-align: center;
+        align-items: center;
         flex-direction: column;
         margin-top: 1rem;
         background-color: var(--white);
+    }
+
+    .nav-links li {
+        margin-left: 0;
     }
 
     .nav-links.active {
